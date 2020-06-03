@@ -6,7 +6,7 @@ Info
 -----
 Es requerido tener activa la extensión de curl para PHP
 
-Targetas para pruebas:
+Tarjetas para pruebas:
 https://herramientas-online.com/generador-tarjeta-credito-cvv.php
 
 <br>
